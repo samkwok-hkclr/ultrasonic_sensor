@@ -1,0 +1,7 @@
+# Sensor model: LGUB500-18GM45-R4-V15
+
+ultrasonic_sensor_node:
+  ros__parameters:
+    field_of_view: 0.0
+    min_range: 0.05
+    max_range: 0.5
